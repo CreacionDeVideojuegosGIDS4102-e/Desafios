@@ -23,7 +23,7 @@
 
 #### Link del proyecto
 
-<a href="https://github.com/CreacionDeVideojuegosGIDS4102-e/Prototipos/blob/main/Prototipo%201.unitypackage">
+<a href="https://github.com/CreacionDeVideojuegosGIDS4102-e/Desafios/blob/main/Desafio%201.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="30"/>
 </a>
 
