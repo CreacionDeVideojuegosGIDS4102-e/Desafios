@@ -30,6 +30,6 @@
 
 #### Evidencia de autoria
 
-**Se omite para este primer prototipo* 
+**Se omite para este primer desafío* 
 
 
